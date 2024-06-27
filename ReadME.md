@@ -3,7 +3,7 @@
 This repository showcases a Symfony-based solution for a geometry calculator task. The goal is to demonstrate best programming practices, skills, and techniques in solving a single task.
 
 ## Technologies
-- PHP 8.1 upward
+- PHP >=8.1 
 - Symfony 6.4
 
 ### How to run the application
