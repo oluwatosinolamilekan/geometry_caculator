@@ -45,9 +45,7 @@ Create a Symfony application that calculates surface and diameter for Circle and
  #### GET /circle/{radius}
 
  Request:
-```json
     GET /circle/2.0
-```
 
 Response:
 ```json
@@ -62,9 +60,7 @@ Response:
 #### GET /triangle/{a}/{b}/{c}
 
 Request:
-```json
-    GET /triangle/3.0/4.0/5.0
-```
+  GET /triangle/3.0/4.0/5.0
 
 Response:
 ```json
